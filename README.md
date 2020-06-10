@@ -1,2 +1,2 @@
 # Feature-Selection-in-Asset-Allocation
-Python codes constructed for the thesis
+Here the python code constructed for the thesis is available. 
